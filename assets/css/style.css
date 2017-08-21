@@ -1,0 +1,25 @@
+        body{
+            /*background: url("../images/the_hollywood_sign_h_2015.jpg") no-repeat center center fixed;*/
+            background-color: #367;
+            color: #ffca28;
+            font-family: 'Saira Condensed', sans-serif;
+        }
+
+        .img_div{
+            width: 370px;
+            height: 240px;
+            float: left;
+            margin-top: 20px;
+        }
+
+        #new-topic-form{
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 0px;
+            margin-right: 20px; 
+        }
+
+img {
+    position: absolute;
+    clip: rect(0px,285px,200px,0px);
+}
